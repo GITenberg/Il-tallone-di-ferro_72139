@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '56262'
     url: http://www.gutenberg.org/2009/agents/56262
     wikipedia: https://it.wikipedia.org/wiki/Gian_D%C3%A0uli
+covers:
+- cover_type: archival
+  image_path: 72139-h/images/cover.jpg
 creator:
   author:
     agent_name: London, Jack
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: https://en.wikipedia.org/wiki/Jack_London
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72139#Il-tallone-di-ferro
 gutenberg_issued: '2023-11-16'
 identifiers:
   gutenberg: '72139'
